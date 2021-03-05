@@ -165,5 +165,3 @@ async def on_message(message):
 
 init()
 
-#TODO extended tweet da vse pokaze
-#stream follow da tud mentione, maybe bo zjebal rate
